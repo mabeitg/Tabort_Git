@@ -11,6 +11,7 @@ namespace tabort123
         static void Main(string[] args)
         {
             Console.WriteLine("HELLO GIT!!1");
+            Console.WriteLine("This is collaborator");
         }
     }
 }
